@@ -1,0 +1,8 @@
+{
+    "name": "flutter_isolate",
+    "short_name": "flutter_isolate",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2"
+}
