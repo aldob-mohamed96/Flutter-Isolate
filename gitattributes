@@ -1,5 +1,6 @@
 *.h linguist-detectable=false
 *.cc linguist-detectable=false
+*.dart linguist-detectable=true
 *.cpp linguist-detectable=false
 *.kt linguist-detectable=false
 *.rb linguist-detectable=false
